@@ -229,8 +229,9 @@ def update(f):
     product = s * kernel
     S_f = np.trapezoid(product, t)
 
-    half = 0.55 / f
-    t_lo, t_hi = -half, half
+    T = 1.0 / f
+    t_hi = T * 1.1
+    t_lo = 0.0
 
     fig = go.Figure()
 
