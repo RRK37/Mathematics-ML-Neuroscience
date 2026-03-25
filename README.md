@@ -7,7 +7,6 @@ Scripts and experiments for exploring mathematics, machine learning, and computa
 - **[neuroscience/](neuroscience/)** — Computational neuroscience (neuron models, spiking networks, etc.)
 - **[ml/](ml/)** — Machine learning experiments
 - **[mathematics/](mathematics/)** — Mathematics explorations
-- **[notebooks/](notebooks/)** — Jupyter notebooks for interactive exploration
 
 ## Setup
 

@@ -10,9 +10,6 @@ build/
 venv/
 env/
 
-# Jupyter
-.ipynb_checkpoints/
-
 # IDE
 .vscode/
 .idea/

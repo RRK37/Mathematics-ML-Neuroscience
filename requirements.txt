@@ -1,2 +1,4 @@
 matplotlib
 numpy
+plotly
+dash
